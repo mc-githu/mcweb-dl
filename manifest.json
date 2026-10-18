@@ -1,37 +1,37 @@
 {
  "mc-launcher": {
   "name": "MC启动器.exe",
-  "size": 277217456,
+  "size": 277243494,
   "parts": 15,
   "key": "mc-launcher"
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 64536752,
+  "size": 75173064,
   "parts": 4,
   "key": "games-launcher"
  },
  "chromium": {
   "name": "UngoogledChromium_便携版_默认必应.zip",
-  "size": 200316065,
+  "size": 200278016,
   "parts": 11,
   "key": "chromium"
  },
  "pcl2": {
   "name": "PCL2启动器_x64.exe",
-  "size": 22366273,
+  "size": 22334668,
   "parts": 2,
   "key": "pcl2"
  },
  "hmcl": {
   "name": "HMCL启动器.exe",
-  "size": 10907431,
+  "size": 10905190,
   "parts": 1,
   "key": "hmcl"
  },
  "create-aero": {
   "name": "机械动力航空学.zip",
-  "size": 179099312,
+  "size": 179096780,
   "parts": 10,
   "key": "create-aero"
  },
