@@ -7,7 +7,7 @@
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 75173064,
+  "size": 64536752,
   "parts": 4,
   "key": "games-launcher"
  },
@@ -34,5 +34,11 @@
   "size": 179099312,
   "parts": 10,
   "key": "create-aero"
+ },
+ "mc26-launcher": {
+  "name": "Eaglercraft-26启动器.exe",
+  "size": 127383752,
+  "parts": 7,
+  "key": "mc26-launcher"
  }
 }
