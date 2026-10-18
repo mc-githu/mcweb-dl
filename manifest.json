@@ -1,10 +1,4 @@
 {
- "mc-launcher": {
-  "name": "MC启动器.exe",
-  "size": 277243494,
-  "parts": 15,
-  "key": "mc-launcher"
- },
  "games-launcher": {
   "name": "小游戏启动器.exe",
   "size": 9003208,
