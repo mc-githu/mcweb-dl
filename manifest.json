@@ -10,7 +10,7 @@
   "size": 8990920,
   "parts": 1,
   "key": "games-launcher",
-  "dir": "games-launcher/v2",
+  "dir": "games-launcher/59df1af3",
   "md5": "59df1af33d1362a2620f27f78841c8a2"
  },
  "chromium": {
@@ -39,10 +39,8 @@
  },
  "mc26-launcher": {
   "name": "Eaglercraft-26启动器.exe",
-  "size": 128516296,
+  "size": 127383752,
   "parts": 7,
-  "key": "mc26-launcher",
-  "dir": "mc26-launcher/v2",
-  "md5": "81a1f57ef308e22d532e6cdd540bb031"
+  "key": "mc26-launcher"
  }
 }
