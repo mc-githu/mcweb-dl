@@ -7,8 +7,8 @@
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 64536752,
-  "parts": 4,
+  "size": 75692720,
+  "parts": 5,
   "key": "games-launcher"
  },
  "chromium": {
