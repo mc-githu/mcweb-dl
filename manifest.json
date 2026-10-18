@@ -7,11 +7,11 @@
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 76305096,
-  "parts": 5,
+  "size": 54962888,
+  "parts": 3,
   "key": "games-launcher",
   "dir": "games-launcher/v2",
-  "md5": "723a1b7460eb531814d2eebf81d001a2"
+  "md5": "b2496edcc666c2168e6c9d9207f3e8df"
  },
  "chromium": {
   "name": "UngoogledChromium_便携版_默认必应.zip",
