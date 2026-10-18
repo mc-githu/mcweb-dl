@@ -7,11 +7,11 @@
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 9003208,
+  "size": 8990920,
   "parts": 1,
   "key": "games-launcher",
-  "dir": "games-launcher/32a7dabb",
-  "md5": "32a7dabb74070ffea09f42cdf2bb5611"
+  "dir": "games-launcher/59df1af3",
+  "md5": "59df1af33d1362a2620f27f78841c8a2"
  },
  "chromium": {
   "name": "UngoogledChromium_便携版_默认必应.zip",
@@ -44,5 +44,13 @@
   "key": "mc26-launcher",
   "dir": "mc26-launcher/v2",
   "md5": "81a1f57ef308e22d532e6cdd540bb031"
+ },
+ "games-browser": {
+  "name": "小游戏启动器-浏览器版.exe",
+  "size": 7110360,
+  "parts": 1,
+  "key": "games-browser",
+  "dir": "games-browser/4a952d15",
+  "md5": "4a952d1537b9d391d3c1d66b2cf53888"
  }
 }
