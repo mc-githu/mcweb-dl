@@ -1,19 +1,9 @@
 {
- "name": "manifest.json",
- "path": "manifest.json",
- "sha": "ab4bbf8fb52e7ee158a4443dc20f47046a8ffa27",
- "size": 1172,
- "url": "https://api.github.com/repos/mc-githu/mcweb-dl/contents/manifest.json?ref=main",
- "html_url": "https://github.com/mc-githu/mcweb-dl/blob/main/manifest.json",
- "git_url": "https://api.github.com/repos/mc-githu/mcweb-dl/git/blobs/ab4bbf8fb52e7ee158a4443dc20f47046a8ffa27",
- "download_url": "https://raw.githubusercontent.com/mc-githu/mcweb-dl/main/manifest.json",
- "type": "file",
- "content": "ewogIm1jLWxhdW5jaGVyIjogewogICJuYW1lIjogIk1D5ZCv5Yqo5ZmoLmV4\nZSIsCiAgInNpemUiOiAyNzcyNDM0OTQsCiAgInBhcnRzIjogMTUsCiAgImtl\neSI6ICJtYy1sYXVuY2hlciIKIH0sCiAiZ2FtZXMtbGF1bmNoZXIiOiB7CiAg\nIm5hbWUiOiAi5bCP5ri45oiP5ZCv5Yqo5ZmoLmV4ZSIsCiAgInNpemUiOiA4\nOTkwOTIwLAogICJwYXJ0cyI6IDEsCiAgImtleSI6ICJnYW1lcy1sYXVuY2hl\nciIsCiAgImRpciI6ICJnYW1lcy1sYXVuY2hlci81OWRmMWFmMyIsCiAgIm1k\nNSI6ICI1OWRmMWFmMzNkMTM2MmEyNjIwZjI3Zjc4ODQxYzhhMiIKIH0sCiAi\nY2hyb21pdW0iOiB7CiAgIm5hbWUiOiAiVW5nb29nbGVkQ2hyb21pdW1f5L6/\n5pC654mIX+m7mOiupOW/heW6lC56aXAiLAogICJzaXplIjogMjAwMjc4MDE2\nLAogICJwYXJ0cyI6IDExLAogICJrZXkiOiAiY2hyb21pdW0iCiB9LAogInBj\nbDIiOiB7CiAgIm5hbWUiOiAiUENMMuWQr+WKqOWZqF94NjQuZXhlIiwKICAi\nc2l6ZSI6IDIyMzM0NjY4LAogICJwYXJ0cyI6IDIsCiAgImtleSI6ICJwY2wy\nIgogfSwKICJobWNsIjogewogICJuYW1lIjogIkhNQ0zlkK/liqjlmaguZXhl\nIiwKICAic2l6ZSI6IDEwOTA1MTkwLAogICJwYXJ0cyI6IDEsCiAgImtleSI6\nICJobWNsIgogfSwKICJjcmVhdGUtYWVybyI6IHsKICAibmFtZSI6ICLmnLrm\norDliqjlipvoiKrnqbrlraYuemlwIiwKICAic2l6ZSI6IDE3OTA5Njc4MCwK\nICAicGFydHMiOiAxMCwKICAia2V5IjogImNyZWF0ZS1hZXJvIgogfSwKICJt\nYzI2LWxhdW5jaGVyIjogewogICJuYW1lIjogIkVhZ2xlcmNyYWZ0LTI25ZCv\n5Yqo5ZmoLmV4ZSIsCiAgInNpemUiOiAxMjg1MTYyOTYsCiAgInBhcnRzIjog\nNywKICAia2V5IjogIm1jMjYtbGF1bmNoZXIiLAogICJkaXIiOiAibWMyNi1s\nYXVuY2hlci92MiIsCiAgIm1kNSI6ICI4MWExZjU3ZWYzMDhlMjJkNTMyZTZj\nZGQ1NDBiYjAzMSIKIH0sCiAiZ2FtZXMtYnJvd3NlciI6IHsKICAibmFtZSI6\nICLlsI/muLjmiI/lkK/liqjlmagt5rWP6KeI5Zmo54mILmV4ZSIsCiAgInNp\nemUiOiA3MTEwMzYwLAogICJwYXJ0cyI6IDEsCiAgImtleSI6ICJnYW1lcy1i\ncm93c2VyIiwKICAiZGlyIjogImdhbWVzLWJyb3dzZXIvNGE5NTJkMTUiLAog\nICJtZDUiOiAiNGE5NTJkMTUzN2I5ZDM5MWQzYzFkNjZiMmNmNTM4ODgiCiB9\nCn0=\n",
- "encoding": "base64",
- "_links": {
-  "self": "https://api.github.com/repos/mc-githu/mcweb-dl/contents/manifest.json?ref=main",
-  "git": "https://api.github.com/repos/mc-githu/mcweb-dl/git/blobs/ab4bbf8fb52e7ee158a4443dc20f47046a8ffa27",
-  "html": "https://github.com/mc-githu/mcweb-dl/blob/main/manifest.json"
+ "mc-launcher": {
+  "name": "MC启动器.exe",
+  "size": 277243494,
+  "parts": 15,
+  "key": "mc-launcher"
  },
  "games-launcher": {
   "name": "小游戏启动器.exe",
@@ -22,5 +12,37 @@
   "key": "games-launcher",
   "dir": "games-launcher/32a7dabb",
   "md5": "32a7dabb74070ffea09f42cdf2bb5611"
+ },
+ "games-browser": {
+  "name": "小游戏启动器-浏览器版.exe",
+  "size": 7110360,
+  "parts": 1,
+  "key": "games-browser",
+  "dir": "games-browser/4a952d15",
+  "md5": "4a952d1537b9d391d3c1d66b2cf53888"
+ },
+ "chromium": {
+  "name": "UngoogledChromium_便携版_默认必应.zip",
+  "size": 200278016,
+  "parts": 11,
+  "key": "chromium"
+ },
+ "pcl2": {
+  "name": "PCL2启动器_x64.exe",
+  "size": 22334668,
+  "parts": 2,
+  "key": "pcl2"
+ },
+ "hmcl": {
+  "name": "HMCL启动器.exe",
+  "size": 10905190,
+  "parts": 1,
+  "key": "hmcl"
+ },
+ "create-aero": {
+  "name": "机械动力航空学.zip",
+  "size": 179096780,
+  "parts": 10,
+  "key": "create-aero"
  }
 }
