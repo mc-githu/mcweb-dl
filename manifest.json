@@ -39,8 +39,10 @@
  },
  "mc26-launcher": {
   "name": "Eaglercraft-26启动器.exe",
-  "size": 127383752,
+  "size": 128516296,
   "parts": 7,
-  "key": "mc26-launcher"
+  "key": "mc26-launcher",
+  "dir": "mc26-launcher/v2",
+  "md5": "81a1f57ef308e22d532e6cdd540bb031"
  }
 }
