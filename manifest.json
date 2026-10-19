@@ -1,11 +1,11 @@
 {
  "games-launcher": {
   "name": "小游戏启动器.exe",
-  "size": 10018504,
+  "size": 10019016,
   "parts": 1,
   "key": "games-launcher",
-  "dir": "games-launcher/98f937ec",
-  "md5": "98f937ecd6971c17057c77ac51978e41"
+  "dir": "games-launcher/58140761",
+  "md5": "58140761d60ab1cbd992de5af20efae7"
  },
  "games-browser": {
   "name": "小游戏启动器-浏览器版.exe",
