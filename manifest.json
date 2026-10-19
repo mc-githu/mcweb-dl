@@ -9,11 +9,11 @@
  },
  "games-browser": {
   "name": "小游戏启动器-浏览器版.exe",
-  "size": 7955160,
+  "size": 7963352,
   "parts": 1,
   "key": "games-browser",
-  "dir": "games-browser/43fa61ff",
-  "md5": "43fa61ff3f31e5b158196789ba29797a"
+  "dir": "games-browser/1d91d42d",
+  "md5": "1d91d42dbe44c80ef4f74aa623fedd4f"
  },
  "chromium": {
   "name": "UngoogledChromium_便携版_默认必应.zip",
